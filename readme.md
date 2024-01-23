@@ -1,5 +1,5 @@
 # Brief : The Project
-This calculator app can to do basic math operations, and this can use by anyone with free.
+This calculator app can do basic math operations, and this can use by anyone with free.
 
 # Purpose of This Project Created
 This app created for completing Python Projects : Calculator using Python course by [Great Learning Academy](https://www.mygreatlearning.com/). 
